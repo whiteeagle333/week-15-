@@ -1,0 +1,73 @@
+/* .usercontainer2 {
+    display: flex;
+    margin-top: 6em;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: black;
+  }
+  
+  .usercontainer {
+    display: flex;
+    margin-top: 6em;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: black;
+  }
+  
+  .App2 {
+    background-color: #201919; /* Blue background color */
+/* color: white; White text color 
+  }
+  
+  button {
+    background-color: rgb(240, 102, 102);
+    color: rgb(18, 18, 18);
+  }
+  
+  .container-md {
+    background-color: rgb(152, 42, 42);
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .container-md form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .container-md label {
+    margin-right: 10px;
+  }
+  
+  .container-md input {
+    margin-bottom: 10px;
+  }
+  
+  .container-md button {
+    margin-top: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  form label {
+    margin-bottom: 5px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  } 
+   */
